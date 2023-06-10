@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asdfvg123
-- 👀 I’m interested in securit and cryptography
+- 👀 I’m interested in security and cryptography
 - 🌱 I’m currently learning security
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
